@@ -1,0 +1,501 @@
+symptoms,disease,specialist,medicine,usage,side_effects,health_tips
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"joint pain,swelling",Arthritis,Rheumatologist,Antihistamine,Apply topically twice daily,"Skin irritation, Dryness",Do light stretching and low-impact exercises
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"headache,nausea",Migraine,Neurologist,Ibuprofen,Take 1 tablet as needed,"Dizziness, Stomach pain",Avoid bright lights and loud noises
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"stomach pain,vomiting",Gastritis,Gastroenterologist,Antibiotics,Take 1 spoon after meals,"Heartburn, Indigestion",Eat small frequent meals
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"eye redness,irritation",Conjunctivitis,Ophthalmologist,Eye Drops,Swallow whole with water,"Diarrhea, Headache",Avoid rubbing your eyes
+"chest pain,shortness of breath",Angina,Cardiologist,Nitroglycerin,Take under the tongue as needed,"Low blood pressure, Dizziness",Exercise regularly and maintain a healthy diet
+"skin rash,itching",Allergy,Dermatologist,Iron Supplements,Take 1 capsule with food,"Constipation, Stomach cramps",Use hypoallergenic skincare products
+"sore throat,runny nose",Common Cold,ENT Specialist,Vitamin C,Use 2 drops in each eye,"Blurred vision, Itching",Wash hands frequently
+"muscle pain,weakness",Fibromyalgia,Pain Specialist,Muscle Relaxant,Take before bedtime,"Fatigue, Weakness",Engage in regular physical activity
+"fatigue,dizziness",Anemia,Hematologist,Omeprazole,Dissolve in water and drink,"Nausea, Vomiting",Consume iron-rich foods
+"fever,cough",Influenza,General Physician,Paracetamol,Take 1 tablet every 6 hours,"Drowsiness, Nausea",Stay hydrated and rest

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Performance Predictor</title>
+    <link rel="stylesheet" href="static/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+            <h1>📚 Student Performance Predictor</h1>
+        </header>
+        
+        <main>
+            <section class="input-section">
+                <h2>Enter Student Data</h2>
+                <label>📖 Hours Studied:</label>
+                <input type="number" id="hours_studied" placeholder="Enter hours studied">
+
+                <label>📊 Previous Grades:</label>
+                <input type="number" id="previous_grades" placeholder="Enter previous grade">
+
+                <label>📅 Attendance (%):</label>
+                <input type="number" id="attendance" placeholder="Enter attendance %">
+
+                <button onclick="getPrediction()">🚀 Predict</button>
+            </section>
+
+            <section class="output-section">
+                <h2>📊 Prediction Result</h2>
+                <p id="result">Predicted Final Grade: --</p>
+                <canvas id="performanceChart"></canvas>
+            </section>
+        </main>
+    </div>
+    
+    <script src="static/chart.js"></script>
+</body>
+</html>

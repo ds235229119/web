@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marketing Analytics</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 20px;
+            margin: 0;
+        }
+        header {
+            background: #007BFF;
+            color: white;
+            padding: 15px;
+            font-size: 1.5rem;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            margin: 20px auto;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+        }
+        input, select, button {
+            width: 90%;
+            padding: 10px;
+            margin: 10px auto;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            display: block;
+        }
+        button {
+            background-color: #007BFF;
+            color: white;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #predictionResult {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #333;
+            margin-top: 10px;
+        }
+        canvas {
+            max-width: 100%;
+            height: 300px !important;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>📊 Marketing Analytics Dashboard</h1>
+    </header>
+    
+    <section class="container">
+        <h2>🔍 Customer Behavior Prediction</h2>
+        <form id="predictionForm">
+            <label>Age:</label>
+            <input type="number" id="age" required>
+            <label>Region:</label>
+            <select id="region"></select>
+            <label>Product Category:</label>
+            <select id="productCategory"></select>
+            <label>Spending Score:</label>
+            <input type="number" id="spendingScore" required>
+            <button type="submit">Predict</button>
+        </form>
+        <h3>Prediction: <span id="predictionResult"></span></h3>
+    </section>
+    
+    <section class="container">
+        <h2>📈 Customer Segmentation</h2>
+        <canvas id="segmentationChart"></canvas>
+    </section>
+    
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            loadDropdownOptions();
+            setTimeout(loadSegmentationChart, 1000);
+        });
+
+        function loadDropdownOptions() {
+            const regions = ["North", "South", "East", "West"];
+            const productCategories = ["Electronics", "Fashion", "Groceries", "Automobiles"];
+            let regionDropdown = document.getElementById("region");
+            let productDropdown = document.getElementById("productCategory");
+            regions.forEach(region => {
+                let option = document.createElement("option");
+                option.value = region;
+                option.textContent = region;
+                regionDropdown.appendChild(option);
+            });
+            productCategories.forEach(category => {
+                let option = document.createElement("option");
+                option.value = category;
+                option.textContent = category;
+                productDropdown.appendChild(option);
+            });
+        }
+
+        document.getElementById("predictionForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            let age = document.getElementById("age").value;
+            let region = document.getElementById("region").value;
+            let productCategory = document.getElementById("productCategory").value;
+            let spendingScore = document.getElementById("spendingScore").value;
+            fetch("/predict", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ Age: age, Region: region, Product_Category: productCategory, Spending_Score: spendingScore })
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById("predictionResult").innerText = data.prediction;
+            })
+            .catch(error => console.error("Error:", error));
+        });
+
+        function loadSegmentationChart() {
+            fetch("/segmentation")
+            .then(response => response.json())
+            .then(data => {
+                if (!data || Object.keys(data).length === 0) {
+                    console.error("No segmentation data received.");
+                    return;
+                }
+                let ctx = document.getElementById("segmentationChart").getContext("2d");
+                new Chart(ctx, {
+                    type: "bar",
+                    data: {
+                        labels: ["High Spenders", "Medium Spenders", "Low Spenders"],
+                        datasets: [{ 
+                            label: "Customer Segments",
+                            data: Object.values(data),
+                            backgroundColor: ["#FF6384", "#36A2EB", "#FFCE56"],
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                title: {
+                                    display: true,
+                                    text: 'Number of Customers'
+                                }
+                            }
+                        }
+                    }
+                });
+            })
+            .catch(error => console.error("Error loading chart:", error));
+        }
+    </script>
+</body>
+</html>

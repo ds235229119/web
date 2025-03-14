@@ -1,0 +1,76 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #4CAF50, #2196F3);
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevent scrolling */
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper {
+    width: 50%;
+    max-height: 90vh;
+    overflow-y: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    color: black;
+}
+
+header h1 {
+    color: #333;
+}
+
+.input-section, .output-section {
+    margin-bottom: 20px;
+}
+
+input {
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+    appearance: textfield; /* Hide number input arrows */
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input:focus {
+    outline: none;
+    border: 2px solid #FF9800; /* Highlight input when selected */
+}
+
+button {
+    background: #FF9800;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    display: block;
+    width: 50%;
+    margin: 10px auto;
+}
+
+button:hover {
+    background: #E68900;
+    transition: 0.3s;
+}
+
+canvas {
+    margin-top: 20px;
+    width: 400px !important; /* Increased graph size */
+    height: 300px !important; /* Increased graph size */
+}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthcare Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>🏥 Healthcare Assistant</h1>
+
+    <section class="container">
+        <h2>🩺 Health Tips</h2>
+        <ul id="health-tips">
+            {% for tip in health_tips %} <li>{{ tip }}</li> {% endfor %}
+        </ul>
+    </section>
+
+    <section class="container">
+        <h2>🔍 Symptom Checker</h2>
+        <input type="text" id="symptoms" placeholder="Enter symptoms (comma-separated)">
+        <button onclick="checkDiagnosis()">Check</button>
+        <ul id="diagnosis-result"></ul>
+    </section>
+
+    <section class="container">
+        <h2>👨‍⚕️ Find a Doctor</h2>
+        <button onclick="getDoctorRecommendation()">Get Recommendations</button>
+        <ul id="doctor-result"></ul>
+    </section>
+
+    <script>
+        function checkDiagnosis() {
+            let symptoms = document.getElementById('symptoms').value.split(',').map(s => s.trim().toLowerCase());
+
+            fetch('/diagnose', {
+                method: 'POST',
+                body: JSON.stringify({ symptoms: symptoms }),
+                headers: { 'Content-Type': 'application/json' }
+            })
+            .then(response => response.json())
+            .then(data => {
+                let resultBox = document.getElementById('diagnosis-result');
+                resultBox.innerHTML = data.error ? `<li>${data.error}</li>` : data.diagnoses.map(d => `<li>${d.disease} (👨‍⚕️ ${d.specialist})</li>`).join('');
+            })
+            .catch(error => console.error("Error:", error));
+        }
+
+        function getDoctorRecommendation() {
+            fetch('/doctor')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('doctor-result').innerHTML = data.specialists.map(s => `<li>${s}</li>`).join('');
+            })
+            .catch(error => console.error("Error:", error));
+        }
+    </script>
+</body>
+</html>
